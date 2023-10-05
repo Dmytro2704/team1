@@ -1,4 +1,4 @@
-HEllo HEllo HEllo
+#HEllo HEllo HEllo Maks and Sofia
 x=int(2.99)
 print(x)
 
